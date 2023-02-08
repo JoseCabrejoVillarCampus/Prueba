@@ -17,7 +17,7 @@ body{
     background-color: #ff702a;
     border: none;
 }
-.lore, .subtitle , #h2WS, #pFT, #home, #about, #menu, #service, #contact, #descripcion{
+.lore, .subtitle , #h2WS, #pFT, #home, #about, #menu, #service, #contact, #descripcion, .menu{
     color: #fff;
 }
 
